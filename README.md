@@ -12,6 +12,12 @@ Scrapy
 ```
 ### Data
 
+### Data Pre-processing
+
+### Feature Extraction
+
+### MLP Modeling
+
 
 
 ## Authors
