@@ -10,13 +10,6 @@ Python 3
 Pytorch
 Scrapy
 ```
-### Data
-
-### Data Pre-processing
-
-### Feature Extraction
-
-### MLP Modeling
 
 
 
